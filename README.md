@@ -15,9 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
