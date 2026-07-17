@@ -1,21 +1,18 @@
 class Solution {
     public int[] sumZero(int n) {
         int []arr=new int[n];
-        int sum=1;
-        int index=0;
-        while(index<n-1){
-            arr[index]=sum;
-            index++;
-           arr[index]=-sum;
-           index++;
-           sum++;
+        int left=0;
+        int right=n-1;
+        int num=1;
+        while(left<right){
+            arr[left]=-num;
+            arr[right]=num;
+            num++;
+          
+           left++;
+           right--;
             
         }
-        if(n%2!=0){
-            arr[index]=0;
-        }
-        Arrays.sort(arr);
-
         return arr;
     }
 }
