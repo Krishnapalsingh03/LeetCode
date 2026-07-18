@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
