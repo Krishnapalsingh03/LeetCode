@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2942-find-words-containing-character](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
