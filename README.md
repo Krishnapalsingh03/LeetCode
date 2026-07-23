@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Greedy
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
