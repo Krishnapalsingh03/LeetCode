@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2652-sum-multiples) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1051-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
