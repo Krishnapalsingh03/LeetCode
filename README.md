@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Counting
 |  |
 | ------- |
