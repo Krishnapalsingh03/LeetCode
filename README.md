@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Prefix Sum
 |  |
 | ------- |
