@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Counting
 |  |
