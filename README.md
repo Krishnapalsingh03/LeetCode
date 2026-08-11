@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3701-compute-alternating-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3701-compute-alternating-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
