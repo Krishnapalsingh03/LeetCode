@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
