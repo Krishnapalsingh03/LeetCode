@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3516-find-closest-person](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3516-find-closest-person) |
 | [3945-digit-frequency-score](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
