@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3668-restore-finishing-order](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Heap (Priority Queue)
 |  |
