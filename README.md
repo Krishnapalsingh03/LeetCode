@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3945-digit-frequency-score](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
