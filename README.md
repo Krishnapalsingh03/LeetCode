@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0867-transpose-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0101-symmetric-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
