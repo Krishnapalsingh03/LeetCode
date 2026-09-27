@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0136-single-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0520-detect-capital](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0709-to-lower-case) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
