@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1051-height-checker) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
