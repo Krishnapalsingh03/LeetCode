@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Number Theory
 |  |
 | ------- |
