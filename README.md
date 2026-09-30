@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2544-alternating-digit-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3099-harshad-number) |
