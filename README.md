@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3866-first-unique-even-element](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3978-unique-middle-element) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3866-first-unique-even-element](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Heap (Priority Queue)
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3866-first-unique-even-element](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3978-unique-middle-element) |
 ## Number Theory
 |  |
