@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3978-unique-middle-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnapalsingh03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3978-unique-middle-element](https://github.com/Krishnapalsingh03/LeetCode/tree/master/3978-unique-middle-element) |
 ## Number Theory
 |  |
 | ------- |
