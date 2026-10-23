@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1732-find-the-highest-altitude](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/Krishnapalsingh03/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Krishnapalsingh03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
